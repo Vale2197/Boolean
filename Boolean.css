@@ -1,0 +1,80 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  color:white;
+  background-attachment: fixed;
+  font-family: 'Poppins', sans-serif;
+  }
+
+  img {
+    width: 200px;
+  }
+
+.tutto {
+  width: 800px;
+  margin: auto;
+  padding-top: 90px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 70px;
+  border-radius: 20px;
+  margin-top: 30px;
+  
+}
+
+header {
+  color: rgb(0, 221, 0);
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+
+nav {
+  text-align: center;
+  background-color:  rgb(0, 221, 0);
+  padding: 6px;
+  margin-top: 4px;
+
+}
+
+.parte1 input, .parte1 .titolo {
+  display:inline-block;
+  padding-top:25px;
+  font-size: 20px;
+}
+
+.striscia1 {
+  border-bottom: 2px solid rgb(245, 180, 83);
+  border-width: 23px;
+  border-radius: 4px;
+  margin-right: 500px;
+
+}
+
+.parte2 input, .parte2 .titolo {
+  display:inline-block;
+  padding-top:25px;
+  font-size: 20px;
+}
+
+.striscia2 {
+  border-bottom: 2px solid rgb(30, 195, 30);
+  border-width: 23px;
+  border-radius: 4px;
+  margin-right: 300px;
+
+}
+
+.parte3 input, .parte3 .titolo {
+  display:inline-block;
+  padding-top:25px;
+  font-size: 20px;
+}
+
+.striscia3 {
+  border-bottom: 2px solid rgb(190, 65, 65);
+  border-width: 23px;
+  border-radius: 4px;
+  margin-right: 700px;
+
+}
